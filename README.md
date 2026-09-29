@@ -18,7 +18,7 @@ O notebook:
 
 - monta o arquivo `tab_professores.txt` e o lê para um dicionário;
 - implementa a função de fitness, a mutação (1 gene por vez), o cruzamento (ponto de corte variável) e o algoritmo genético;
-- demonstra o ótimo global do problema, usado como referência para avaliar o algoritmo;
+- demonstra o ótimo global do problema (F\* = 314), que serve para avaliar os resultados do algoritmo;
 - executa a configuração oficial: cromossomo inicial do enunciado, população 60, elitismo 20%, mutação 10%, 500 gerações;
 - estuda o efeito dos parâmetros e compara a configuração oficial com uma configuração proposta, em 30 execuções com sementes fixas.
 
